@@ -1,0 +1,1 @@
+$sql = "SELECT * FROM  `users` WHERE `username`="admin';  --" AND `pass`='$password'"; //apprès les doubles -- ça se met en commentaire 
